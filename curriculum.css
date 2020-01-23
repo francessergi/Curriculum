@@ -1,0 +1,87 @@
+main {
+    height: 940px;
+    width: 900px;
+    background-color: rgb(236, 234, 238);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+img {
+    height: 1em;
+    width: auto;
+}
+
+h2 {
+    color: #13a7d8;
+}
+
+aside {
+    background-color: #25a0d1;
+    float: left;
+    color: white;
+    width: 30%;
+    height: inherit;
+}
+
+aside header {
+    text-align: center;
+}
+
+#nombre {
+    padding-top: 46px;
+    padding-bottom: 15px;
+}
+
+#contacto {
+    padding-bottom: 30px;
+}
+
+aside p,
+address {
+    padding-left: 30px;
+}
+
+a {
+    color: white;
+}
+
+.fotoperfil {
+    height: 140px;
+    width: auto;
+    border-radius: 50%;
+}
+
+.derecha {
+    display: inline-block;
+    width: 70%;
+    height: 100%;
+    font-size: small;
+}
+
+.derecha section {
+    padding-left: 40px;
+}
+
+.Habilidades {
+    width: 200px;
+    display: inline-block;
+}
+
+.Conocimientos {
+    width: 200px;
+    display: inline-block;
+}
+
+hr {
+    align-self: center;
+    width: 60%;
+}
+
+#uno,
+#dos,
+#cuatro {
+    padding-top: 10px;
+}
+
+#puestoreciente {
+    padding-bottom: 5px;
+}
