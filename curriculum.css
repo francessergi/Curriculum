@@ -76,6 +76,11 @@ hr {
     width: 60%;
 }
 
+#uno,
 #dos {
     padding-bottom: 10px
+}
+
+#cuatro {
+    padding-top: 10px
 }
