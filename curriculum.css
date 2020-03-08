@@ -76,11 +76,15 @@ hr {
     width: 60%;
 }
 
+
 #uno,
-#dos,
+#dos {
+    padding-bottom: 10px;
+}
+
 #cuatro {
     padding-top: 10px;
-}
+} 
 
 #puestoreciente {
     padding-bottom: 5px;
